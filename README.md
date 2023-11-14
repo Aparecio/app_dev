@@ -1,4 +1,4 @@
-# [Application Development and Emerging Technologies]
+# Application Development and Emerging Technologies
 
 ## 👋 Hello, World!
 
