@@ -3,6 +3,7 @@
 ## 👋 Hello, World!
 
 I'm Khalil Nicole Aparecio. Welcome to my GitHub Profile!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efenatuyo" alt="starnamics" /></a> </p>
 
 ### 🚀 Quick Overview
 - 🌱 I’m currently learning Python.
